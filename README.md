@@ -17,7 +17,7 @@ A sophisticated voice-activated shopping list manager with smart suggestions, mu
 - `"Add milk"` → Adds milk to the shopping list
 - `"Add 3 bottles of water"` → Adds item with specific quantity
 - `"Remove apples"` → Removes apples from the list
-- `"Find organic toothpaste under $5"` → Search with filters
+- `"Find organic toothpaste under ₹120"` → Search with filters
 - `"Clear list"` → Removes all items
 
 ## 🚀 Getting Started
