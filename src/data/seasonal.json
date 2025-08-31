@@ -1,0 +1,6 @@
+{
+  "winter": ["soup", "hot chocolate", "citrus", "root vegetables"],
+  "spring": ["asparagus", "peas", "fresh herbs", "strawberries"],
+  "summer": ["watermelon", "corn", "tomatoes", "berries", "grilling items"],
+  "fall": ["pumpkins", "apples", "squash", "cinnamon", "warm spices"]
+}

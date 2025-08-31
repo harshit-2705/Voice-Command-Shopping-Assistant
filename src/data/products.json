@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "name": "Organic Whole Milk",
+    "brand": "Horizon",
+    "price": 4.99,
+    "category": "dairy",
+    "tags": ["organic", "vitamin-d"]
+  },
+  {
+    "id": "2", 
+    "name": "Bananas",
+    "brand": "Dole",
+    "price": 1.99,
+    "category": "produce",
+    "tags": ["organic", "potassium"]
+  },
+  {
+    "id": "3",
+    "name": "Sourdough Bread",
+    "brand": "Artisan Bakery",
+    "price": 3.49,
+    "category": "bakery",
+    "tags": ["fresh", "artisan"]
+  },
+  {
+    "id": "4",
+    "name": "Free Range Chicken",
+    "brand": "Bell & Evans",
+    "price": 12.99,
+    "category": "meat",
+    "tags": ["free-range", "organic"]
+  },
+  {
+    "id": "5",
+    "name": "Colgate Toothpaste",
+    "brand": "Colgate",
+    "price": 3.99,
+    "category": "personal care",
+    "tags": ["whitening", "fluoride"]
+  },
+  {
+    "id": "6",
+    "name": "Organic Apples",
+    "brand": "Gala",
+    "price": 4.99,
+    "category": "produce",
+    "tags": ["organic", "sweet"]
+  },
+  {
+    "id": "7",
+    "name": "Almond Milk",
+    "brand": "Silk",
+    "price": 3.99,
+    "category": "dairy",
+    "tags": ["plant-based", "unsweetened"]
+  },
+  {
+    "id": "8",
+    "name": "Greek Yogurt",
+    "brand": "Chobani",
+    "price": 5.99,
+    "category": "dairy",
+    "tags": ["protein", "probiotics"]
+  },
+  {
+  "id": "10",
+  "name": "Curd",
+  "brand": "Amul",
+  "price": 2.49,
+  "category": "dairy",
+  "tags": ["probiotics", "calcium"]
+}
+
+
+  
+]

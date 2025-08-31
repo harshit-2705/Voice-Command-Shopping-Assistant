@@ -1,0 +1,10 @@
+{
+  "milk": ["almond milk", "oat milk", "soy milk"],
+  "butter": ["olive oil", "coconut oil", "margarine"],
+  "eggs": ["egg substitute", "flax eggs"],
+  "sugar": ["honey", "maple syrup", "stevia"],
+  "bread": ["tortillas", "rice cakes", "lettuce wraps"],
+  "pasta": ["zucchini noodles", "shirataki noodles", "quinoa"],
+  "cheese": ["nutritional yeast", "cashew cheese", "vegan cheese"],
+  "chicken": ["tofu", "tempeh", "plant-based chicken"]
+}
